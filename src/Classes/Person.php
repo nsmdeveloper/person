@@ -1,5 +1,5 @@
 <?php
-namespace Nsm\Classes;
+namespace Nsmdev\Classes;
 class Person {
 	
 	private string $fname = "";
