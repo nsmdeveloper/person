@@ -1,0 +1,16 @@
+{
+    "name": "nsm/example",
+    "description": "This is just  a example of autoload",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nat San Mel",
+            "email": "nsmprogramador@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Nsm\\": "src/"}
+    }
+}
